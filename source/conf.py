@@ -30,6 +30,7 @@ author = 'NDSLib Group'
 extensions = [
     'recommonmark',
     'sphinx.ext.mathjax', 'sphinx.ext.todo', 'sphinx.ext.githubpages',
+    'sphinxtogithub',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
