@@ -1,0 +1,25 @@
+NDSLEP template
+====================================
+
+.. cssclass:: table-striped
+
++--------+-----------------+
+| NDSLEP | #None           |
++--------+-----------------+
+| Title  | NDSLEP Template |
++--------+-----------------+
+| Author | NDSLib Group    |
++--------+-----------------+
+| Status | Active          |
++--------+-----------------+
+| Lang   | JA              |
++--------+-----------------+
+| Genre  | Rules           |
++--------+-----------------+
+
+
+****
+概要
+****
+
+table https://www.tablesgenerator.com/text_tables#

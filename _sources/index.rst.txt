@@ -24,6 +24,9 @@ NDSLEP #0 Index of NDSLib Enhancement Proposals
    :maxdepth: 2
    :caption: Contents:
 
+   ndsleps/template
+
+   
    ndsleps/ndslep0
    ndsleps/ndslep1
 
